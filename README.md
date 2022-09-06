@@ -31,6 +31,11 @@ My knowledge of software testing, review, and validation—along with my ability
 * Google Lighthouse
 * CorelDRAW
 
+# My test documentation:
+* Bug reports
+* Test reports
+* Test cases
+
 # Operating systems:
 * Windows
 * Android
